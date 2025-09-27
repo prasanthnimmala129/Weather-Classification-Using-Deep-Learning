@@ -8,6 +8,8 @@ Built by **Prasanth** using Python.
 
 ## 🔍 Problem Statement
 
+Identifying weather conditions quickly is important for travel, farming, and safety, but manual observation is slow and unreliable. The problem is to build a deep learning model that can automatically classify weather images as sunny, cloudy, rainy, or snowy for faster and more accurate results.
+
 ---
 
 ## 📊 Dataset Information
