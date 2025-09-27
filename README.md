@@ -21,7 +21,7 @@ Built by **Prasanth** using Python.
 
 ---
 
-✅ Final Results
+## ✅ Final Results
 
 <img width="973" height="452" alt="image" src="https://github.com/user-attachments/assets/f71988cd-69b4-416f-a749-b1745c828116" />
 <img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/c7f37089-0644-4d24-ad0f-7afc68edd308" />
